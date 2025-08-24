@@ -21,7 +21,7 @@ O objetivo é praticar conceitos fundamentais em Python:
 1. Abra o terminal na pasta do projeto.
 2. Execute:
    ```bash
-   python3 desafio_variaveis_funcoes.py´
+   python3 desafio_variaveis_funcoes.py
 
 ## ✍️ Autor Carlos Aguiar 
 - LinkedIn: https://www.linkedin.com/in/carloskotlin 
