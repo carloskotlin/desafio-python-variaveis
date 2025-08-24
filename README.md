@@ -14,15 +14,14 @@ O objetivo é praticar conceitos fundamentais em Python:
 - Calcula a soma
 - Calcula a média
 
+## 📚 Tecnologias: Linguagem: 
+- Python 3.12.3
+
 ## 🛠️ Como Executar:
 1. Abra o terminal na pasta do projeto.
 2. Execute:
    ```bash
-   python3 desafio_variaveis_funcoes.py
-```
-
-## 📚 Tecnologias: Linguagem: 
-- Python 3.12.3
+   python3 desafio_variaveis_funcoes.py´´
 
 ## ✍️ Autor Carlos Aguiar 
 - LinkedIn: https://www.linkedin.com/in/carloskotlin 
